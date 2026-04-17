@@ -141,13 +141,13 @@ KeenKeeper
 
 
 ### Friend Details Page
-<img src="./src/assets/README/idDetails.png" alt="Friend Details Page">
+<img src="./src/assets/README/idDetails.png" alt=" Details Page">
 
 ### Timeline Page
-<img src=".src\assets\README\timeline.png" alt="Timeline Page">
+<img src="./src/assets/README/timeline.png" alt="Timeline">
 
 ### Stats Page
-<img src=".src/assets/README/stats.png" alt="Stats Page">
+<img src=".src/assets/README/stats.png" alt="Stats">
 
 ---
 ## 🚀 Future Improvements
@@ -161,8 +161,8 @@ KeenKeeper
 # 👨‍💻 Author
 **RS Arafath**
 * GitHub: [Connect by Github](https://github.com/RS-Arafath)
-* Email: [Connect by Email] (contact.arafath.bd@gmail.com)
 * LinkedIn: [Connect in Linkdin](https://www.linkedin.com/in/rs-arafath/)
+* Email: *contact.arafath.bd@gmail.com*
 ---
 ## ⭐ Show Your Support
 **If you like this project, consider giving it a ⭐ on GitHub.**
