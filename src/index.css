@@ -57,7 +57,7 @@ body {
 }
 
 .section-fade-in {
-  animation: sectionFadeIn 450ms ease;
+  animation: sectionFadeIn 480ms ease;
 }
 
 @keyframes sectionFadeIn {
