@@ -29,7 +29,7 @@ const Navbar = () => {
                             </NavLink>
                         </ul>
                     </div>
-                    <a href="" className="interactive-button rounded-xl p-2">
+                    <a href="" className="btn btn-ghost rounded-lg p-2">
                         <img src={Logo} alt="KeenKeeper" />
                     </a>
                 </div>
