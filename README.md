@@ -148,3 +148,24 @@ KeenKeeper
 
 ### Stats Page
 <img src=".src/assets/README/stats.png" alt="Stats Page">
+
+---
+## 🚀 Future Improvements
+- CRUD operations for friends
+- Backend integration (database)
+- Authentication system
+- Dark mode support
+- Enhanced analytics dashboard
+- Notification system
+---
+# 👨‍💻 Author
+**RS Arafath**
+* GitHub: [Connect by Github](https://github.com/RS-Arafath)
+* Email: [Connect by Email] (contact.arafath.bd@gmail.com)
+* LinkedIn: [Connect in Linkdin](https://www.linkedin.com/in/rs-arafath/)
+---
+## ⭐ Show Your Support
+**If you like this project, consider giving it a ⭐ on GitHub.**
+**If you want, next step I can turn this into:**
+- 🔥 Portfolio-ready README (recruiter focused)
+- or add badges + GitHub stats + profile banner style README
