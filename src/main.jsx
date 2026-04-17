@@ -9,6 +9,9 @@ import FriendProvider from './Context/Context.jsx';
 // App entry point: wraps routing, toast notifications, and shared interaction state.
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <App></App>
+    <FriendProvider>
+      <RouterProvider router={router} />
+      <ToastContainer />
+    </FriendProvider>
   </StrictMode>,
 )

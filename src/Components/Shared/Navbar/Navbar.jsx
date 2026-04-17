@@ -7,7 +7,7 @@ import Logo from '../../../assets/logo.png';
 
 const Navbar = () => {
     return (
-        <div className='sticky top-0 z-50 border-b border-[#E9E9E9]/80 bg-white/90 backdrop-blur-xs'>
+        <div className='sticky top-0 z-50 border-b border-[#E9E9E9]/80 bg-white/90 backdrop-blur-xs '>
             <div className="navbar bg-transparent shadow-sm px-5 lg:px-20">
                 <div className="navbar-start">
                     {/* Mobile dropdown navigation */}

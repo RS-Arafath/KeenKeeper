@@ -19,9 +19,7 @@ html {
 }
 
 body {
-  background:
-    radial-gradient(circle at top, rgba(47, 168, 102, 0.08), transparent 28%),
-    linear-gradient(180deg, #f8fafc 0%, #f3f7fb 100%);
+  
 }
 
 .interactive-card {
@@ -56,18 +54,3 @@ body {
   transform: translateY(0);
 }
 
-.section-fade-in {
-  animation: sectionFadeIn 480ms ease;
-}
-
-@keyframes sectionFadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(16px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
