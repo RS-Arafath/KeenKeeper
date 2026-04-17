@@ -12,9 +12,8 @@ KeenKeeper is a React-based friendship management web app designed to help users
 ---
 
 ## 🔗 Live Demo
-
-- 🌐 Live Site: https://keen-keeper-oa1r.vercel.app/
-- 💻 Repository: https://github.com/RS-Arafath/KeenKeeper.git
+ - 🌐[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge&logo=netlify)](https://keen-keeper-oa1r.vercel.app/)
+- 💻 Repository: [Repo Link](https://github.com/RS-Arafath/KeenKeeper.git)
 
 ---
 
